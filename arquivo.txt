@@ -5,3 +5,4 @@ Mais uma linha
 linha pra conflito
 Texto
 Mais uma linha
+linha conflito 2
